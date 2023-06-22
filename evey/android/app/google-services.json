@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054161917041",
+    "project_id": "evey-00",
+    "storage_bucket": "evey-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054161917041:android:1ce6161d8559da7963f7d0",
+        "android_client_info": {
+          "package_name": "com.example.evey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054161917041-jhvn605kav6vpi3ufcglh7vfnouvacgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmS1CgyoRAky2Chn_IdkNrReWViCkfFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054161917041-jhvn605kav6vpi3ufcglh7vfnouvacgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
